@@ -1,6 +1,6 @@
 Kanban app
 
-![how-it-works](https://github.com/iblessedi/kanban/blob/master/how-it-works.gif)
+![how-it-works](https://github.com/iblessedi/kanban/blob/master/public/how-it-works.gif?raw=true)
 
 Requirements were:
 - Deploy a Kanban board and share the public repository for review
