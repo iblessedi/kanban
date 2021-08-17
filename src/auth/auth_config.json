@@ -1,0 +1,6 @@
+{
+  "domain": "dev-dyinvmcf.us.auth0.com",
+  "clientId": "KGru6DKYSOGazay3bsglpVwn4ttJd9dy",
+  "redirectUri": "http://localhost:3000",
+  "audience": "http://localhost:3000"
+}
